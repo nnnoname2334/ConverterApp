@@ -34,7 +34,7 @@ namespace ConverterApp.Tests
         }
 
         /// <summary>
-        /// Корректные данные: 500 метров = 0.5 километра
+        /// Корректные данные: 500 метров = 0.5 километр
         /// </summary>
         [TestMethod]
         public void MetersToKilometers_500Meters_Returns0Point5Km()
