@@ -24,3 +24,12 @@ ConverterApp/
 │   └── ConverterLogic.cs      # Логика конвертации
 └── ConverterApp.Tests/        # Тестовый проект MSTest
 └── ConverterLogicTests.cs # 26 автоматизированных тестов
+## Результаты тестирования
+
+Все 26 тестов пройдены успешно.
+
+![Обозреватель тестов](tests_screenshot.png)
+
+## Тестовые сценарии
+
+Файл с ручным тестированием: `testing-scenarios.docx`
