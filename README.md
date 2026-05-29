@@ -17,6 +17,7 @@
 - Градусы Фаренгейта → Градусы Цельсия
 
 ## Структура решения
+'''
 ConverterApp/
 ├── ConverterApp/              # WPF-приложение
 │   ├── MainWindow.xaml        # Интерфейс
@@ -24,6 +25,7 @@ ConverterApp/
 │   └── ConverterLogic.cs      # Логика конвертации
 └── ConverterApp.Tests/        # Тестовый проект MSTest
 └── ConverterLogicTests.cs # 26 автоматизированных тестов
+'''
 ## Результаты тестирования
 
 Все 26 тестов пройдены успешно.
